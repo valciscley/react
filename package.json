@@ -9,10 +9,6 @@
     "prod": "webpack --config webpack.config.js --mode production",
     "preprod": "if exist \"prod\" (rmdir prod /s /q)"
   },
-  "repository": {
-    "type": "git",
-    "url": "file://c:\\\\Projetos\\\\VFlex\\\\vflexreact.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
