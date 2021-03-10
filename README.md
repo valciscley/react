@@ -1,4 +1,4 @@
-# react
+# Boilerplate de react
 
 - Instalar as dependências com npm install
 
